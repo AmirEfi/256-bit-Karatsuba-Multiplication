@@ -3,4 +3,4 @@
 
 This is my final project in DSD course.
 
-It's Karatsuba Multiplication Algorithm.
+It's the Karatsuba Multiplication Algorithm.
