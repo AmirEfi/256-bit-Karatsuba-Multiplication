@@ -3,4 +3,4 @@
 
 This is my final project in DSD course.
 
-It's the Karatsuba Multiplication Algorithm.
+It's the 256-bit Karatsuba Multiplication Algorithm recursively with 128 & 64-bit Karatsuba.
